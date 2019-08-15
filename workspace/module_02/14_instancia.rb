@@ -9,5 +9,7 @@ end
 
 
 p = Pessoa.new("rafael")
-
 puts p.imprimir_nome
+
+p2 = Pessoa.new
+puts p2.imprimir_nome
